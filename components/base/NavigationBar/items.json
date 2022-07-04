@@ -1,0 +1,18 @@
+[
+    {
+        "title": "About us",
+        "pathname": "/about-us"
+    },
+    {
+        "title": "Blog",
+        "pathname": "/blog"
+    },
+    {
+        "title": "Solution",
+        "pathname": ""
+    },
+    {
+        "title": "Our Portfolio",
+        "pathname": "/portfolio"
+    }
+]
